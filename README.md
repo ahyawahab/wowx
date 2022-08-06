@@ -1,4 +1,3 @@
-# wowx
 #EXTM3U
 
 #EXTINF:-1,---ADULTI XXX--- 
@@ -19,8 +18,6 @@ http://stb.tvoetv.in.ua:7071/play/a05n?auth=MIKAILA250595:5VYXYyB
 http://stb.tvoetv.in.ua:7071/play/a07k?auth=MIKAILA250595:5VYXYyB
 #EXTINF:-1, +18 Penthouse 2 HD
 http://stb.tvoetv.in.ua:7071/play/a050?auth=MIKAILA250595:5VYXYyB
-
-
 
 #EXTINF:-1,Nuart
 http://78.111.176.132:8080
